@@ -22,7 +22,7 @@ Pressure
 
 Weather Conditions
 
-Key Highlights
+**_Key Highlights_**
 
 Data Cleaning & Exploration: Inspection of missing values and basic statistics.
 
@@ -32,7 +32,7 @@ Conditional Queries: Extraction of specific weather patterns such as "Clear" wea
 
 Aggregated Insights: Grouping by weather conditions to find mean, minimum, and maximum values.
 
-Code Breakdown
+**_Code Breakdown_**
 
 Displaying dataset summaries (top & bottom records, column names, data types).
 
@@ -44,13 +44,13 @@ Filtering specific weather conditions (e.g., clear, snow, fog).
 
 Advanced queries for data analysis.
 
-Libraries Used
+**_Libraries Used_**
 
 Pandas: For data manipulation and analysis.
 
 NumPy (optional): For numerical operations.
 
-Conclusion
+**_Conclusion_**
 
 This project demonstrates how data analysis can extract actionable insights from weather data. 
 
