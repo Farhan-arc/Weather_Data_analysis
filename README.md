@@ -9,9 +9,15 @@ Project Overview
 This project analyzes weather conditions based on a variety of factors, including:
 
 Temperature
+
 Dew Point Temperature
+
 Relative Humidity
+
 Wind Speed
+
 Visibility
+
 Pressure
+
 Weather Conditions
